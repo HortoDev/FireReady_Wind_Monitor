@@ -1,4 +1,4 @@
-FireReady Weather Monitor
+FireReady Wind Monitor
 
 
 Overview
