@@ -1,4 +1,4 @@
-Fire, No fire for wind direction 
+Fire, No fire for wind direction at Opencut Mines
 
 Code uses a weather API to get wind and weather data 
 https://www.weatherapi.com/api-explorer.aspx#current
